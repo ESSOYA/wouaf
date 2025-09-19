@@ -34,7 +34,6 @@
     "pino": "^9.9.5",
     "qrcode": "^1.5.4",
     "sqlite3": "^5.1.7",
-    "youtube-dl-exec": "^3.0.25",
     "ytdl-core": "^4.11.5"
   }
 }
